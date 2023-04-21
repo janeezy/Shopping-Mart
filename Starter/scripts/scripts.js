@@ -6,4 +6,4 @@ document
 
 const date = document.querySelector('.copy');
 
-date.innerText = 'Copyright' + new Date().getFullYear();
+date.innerText = ' Copyright  ' + new Date().getFullYear();
